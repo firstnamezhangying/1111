@@ -1,0 +1,199 @@
+body {
+    font-family: 微软雅黑;
+}
+
+.header {
+    width: 640px;
+    height: 250px;
+}
+
+.nengyuansum {
+    width: 640px;
+    height: 670px;
+    background: url(../img/大背景.png)no-repeat;
+}
+
+.nengyuan {
+    color: #fff;
+    font-size: 13px;
+    width: 640px;
+    height: 190px;
+}
+
+.nengyuan img {
+    float: left;
+    margin-left: 20px;
+}
+
+.nengyuan p {
+    width: 470px;
+    height: 100px;
+    float: left;
+    margin: 55px 0 0 -30px;
+}
+
+.nengyuan p #nengyuan-b {
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    color: #2ffffd;
+    margin-top: -6px;
+}
+
+.nengyuan p #nengyuan-c {
+    color: #2ffffd;
+}
+
+.nengyuandi {
+    clear: both;
+    height: 500px;
+    color: #fff;
+}
+
+.nengyuandi #zhuban {
+    font-size: 18px;
+    display: inline-block;
+    width: 250px;
+    height: 37px;
+    padding: 7px 0 0 10px;
+    margin: 0 0 0 20px;
+    background: url(../img/主办单位.png)no-repeat;
+}
+
+.nengyuandi #qiye {
+    font-size: 18px;
+    position: absolute;
+    left: 130px;
+    top: 462px;
+}
+
+.nengyuandi #xieban {
+    font-size: 20px;
+    display: inline-block;
+    width: 106px;
+    height: 60px;
+    padding: 8px 0 0 80px;
+    margin: -10px 0 0 170px;
+    background: url(../img/协办单位.png)no-repeat;
+}
+
+.nengyuandi #dell {
+    font-size: 20px;
+    position: absolute;
+    left: 130px;
+    top: 512px;
+}
+
+.nengyuandi #feiji {
+    margin: 0 0 0 0px;
+}
+
+.nengyuandi #diqiu {
+    position: absolute;
+    left: 372px;
+    top: 439px;
+    opacity: 0.2;
+}
+
+.nengyuandi #diqiuhongdian {
+    position: absolute;
+    left: 513px;
+    top: 552px;
+}
+
+.nengyuandi #zhuhai {
+    font-size: 18px;
+    position: absolute;
+    left: 510px;
+    top: 523px;
+}
+
+.nengyuandi #jiudian {
+    font-size: 15px;
+    position: absolute;
+    left: 462px;
+    top: 556px;
+}
+
+.nengyuandi #shijian {
+    font-size: 15px;
+    position: absolute;
+    left: 453px;
+    top: 579px;
+}
+
+.nengyuandi #jieji {
+    font-size: 16px;
+    position: absolute;
+    left: 178px;
+    top: 648px;
+}
+
+.nengyuandi #luntanzi {
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    left: 560px;
+    top: 683px;
+}
+
+.nengyuandi #gaofeng {
+    font-size: 16px;
+    position: absolute;
+    left: 342px;
+    top: 712px;
+}
+
+.nengyuandi #jiaoliu {
+    font-size: 16px;
+    position: absolute;
+    left: 342px;
+    top: 739px;
+}
+
+.nengyuandi #youlan {
+    font-size: 16px;
+    position: absolute;
+    left: 383px;
+    top: 756px;
+}
+
+.nengyuandi #fanchengzi {
+    font-size: 14px;
+    position: absolute;
+    left: 82px;
+    top: 755px;
+}
+
+.nengyuandi #fancheng {
+    position: absolute;
+    left: 52px;
+    top: 728px;
+}
+
+.nengyuandi #luntan {
+    position: absolute;
+    left: 284px;
+    top: 658px;
+}
+
+.nengyuandi #xiebanfang {
+    width: 146px;
+    font-size: 12px;
+    position: absolute;
+    margin: 83px 0 0 75px;
+}
+
+.nengyuandi #feiyong {
+    font-size: 12px;
+    width: 338px;
+    margin: 90px 0 0 273px;
+}
+
+.nengyuandi #feiyong #feiyonghong {
+    color: red;
+}
+
+.nengyuandi #xingzhuangzuo {
+    margin: 52px 0 0 20px;
+}
